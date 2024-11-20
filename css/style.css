@@ -1,0 +1,39 @@
+body{
+	background-color:#aaddff;
+	
+}
+h1 {
+  font-size: 40px;
+}
+.menu {
+	background-color: #cceeff;
+	border: solid;
+	height:220px;
+}
+
+
+.logo {
+	width: 80px;
+	height: 80px;
+	border-radius: 35px;
+}
+
+.logo:hover {
+	width: 100px;
+	height: 100px;
+}
+
+
+li {
+  display: inline;
+  padding:50px;
+}
+
+. {
+	font-size: 40px;
+	text-align: left;
+}
+
+video {
+	width: 100%;
+}
